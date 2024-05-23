@@ -1,4 +1,4 @@
-# RDS-travel-booking
+# RDS_Travelbooking
 Trasvel boolking website
 This repository contains the source code for a modern and user-friendly travel booking website. The website allows users to explore various travel destinations, learn about the company's mission and values, and contact the team for inquiries or bookings.
 
