@@ -55,6 +55,10 @@ nav .logo{
     margin: 2vh;
     margin-left: 8%;
 }
+.logo {
+    width: 300px; 
+    height: auto; 
+}
 
 nav ul li{
     list-style: none;
